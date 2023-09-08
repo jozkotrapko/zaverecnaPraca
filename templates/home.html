@@ -1,11 +1,8 @@
-<!DOCTYPE html>
-<html>
-<head>
-    <title>Domov</title>
-</head>
-<body>
-    {% include 'navbar.html' %}
+{% extends 'base.html' %}
+
+{% block title %}Domov{% endblock %}
+
+{% block content %}
     <h1>Ahoj, vitaj na mojej stránke.</h1>
     <p>Moje meno je Jozef a som začínajúci python programátor.</p>
-</body>
-</html>
+{% endblock %}

@@ -1,11 +1,11 @@
 from PIL import Image
 
-originalObrazok = 'ruka.png'
-zmensitObrazok = 'ruka.png'
+originalObrazok = 'pythonLogo.png'
+zmensitObrazok = 'pythonLogo.png'
 
 
 with Image.open(originalObrazok) as img:
-    novaVelkost = (300, 300)
+    novaVelkost = (280, 280)
     zmensit_img = img.resize(novaVelkost)
 
     zmensit_img.save(zmensitObrazok)

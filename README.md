@@ -1,6 +1,6 @@
 # ZÁVEREČNÁ PRÁCA: Moja Webová Stránka (flask)
 
-Tento projekt je jednoduchá webová stránka vytvorená pomocou Pythonu, HTML, Flask a Pillow. Stránka obsahuje 3 karty: Domov, Certifikácia a Ďakujem. Každá obsahuje text s obrázokom.
+Tento projekt je jednoduchá webová stránka vytvorená pomocou Pythonu, HTML, Flask a Pillow (použité na zmenšenie obrázkov na webstránke). Stránka obsahuje 3 karty: Domov, Certifikácia a Ďakujem. Každá obsahuje text s obrázokom.
 
 ## Inštalácia
 
